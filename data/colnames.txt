@@ -40,7 +40,7 @@ identificationVerificationStatus
 identificationRemarks
 taxonID
 scientificNameID
-acceptedNameUSageID
+acceptedNameUsageID
 parentNameUsageID
 originalNameUsageID
 nameAccordingToID
