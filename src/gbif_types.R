@@ -17,20 +17,28 @@ ipni %<>%
   mutate(fullname = paste(`col:scientificName`,
                           `col:authorship`))
 
-gt_ipni = gt %>%
-  filter(scientificName%in%ipni$fullname)
-gt_ipni_c = gt_ipni %>%
-  count(scientificName)
+# gt_ipni = gt %>%
+#   filter(scientificName%in%ipni$fullname)
+# gt_ipni_c = gt_ipni %>%
+#   count(scientificName)
+# 
+# gt_max= gt %>%
+#   filter(scientificName == "Amorimia pellegrinii R.F.Almeida")
+# 
+# ipni_c = ipni %>%
+#   count(`col:citation`)
+# 
+# ipni_c_status = ipni %>%
+#   count(`col:status.x`)
+# 
+# ipni_c %>% filter(!is.na(`col:citation`)) %>% pull(n) %>% sum()
+# 
+# gt %>% count(basisOfRecord) %>% mutate(perc = n/sum(n))
 
-gt_max= gt %>%
-  filter(scientificName == "Amorimia pellegrinii R.F.Almeida")
+gt %<>%
+  mutate(possible_name = ifelse(is.na(typifiedName),
+                                scientificName,
+                                typifiedName))
 
-ipni_c = ipni %>%
-  count(`col:citation`)
-
-ipni_c_status = ipni %>%
-  count(`col:status.x`)
-
-ipni_c %>% filter(!is.na(`col:citation`)) %>% pull(n) %>% sum()
-
-gt %>% count(basisOfRecord) %>% mutate(perc = n/sum(n))
+ipnilj = ipni %>%
+  left_join(gt,by=c("fullname"="possible_name"))
