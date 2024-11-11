@@ -1,0 +1,580 @@
+INIT
+CREATE
+LAST\tLen\t"Typification assertion: type of Abacopteris truncata Fée"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"60453749-2"
+LAST\tP36\t"1424258938"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abacopteris truncata Fée"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"60453749-2"
+LAST\tP36\t"1424275220"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tLen\t"Typification assertion: isotype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1096921447"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tLen\t"Typification assertion: paratype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP30\tparatype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1096923986"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tLen\t"Typification assertion: paratype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP30\tparatype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1096927519"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tLen\t"Typification assertion: holotype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1423971337"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tLen\t"Typification assertion: paratype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP30\tparatype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1424330172"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tLen\t"Typification assertion: paratype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP30\tparatype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1424330177"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tLen\t"Typification assertion: holotype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1424330509"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tLen\t"Typification assertion: paratype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP30\tparatype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1424334422"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"1228432794"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"1259032044"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"1321713908"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"1928677553"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"1930751483"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"2998313763"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"4031518425"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"4061377274"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"4061390178"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"4061396782"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"4062009435"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"4062086589"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"912261328"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"1228389711"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"1259002565"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"1317927651"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"1929682604"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"1999238856"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"2517320295"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"4031522357"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"4061370111"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"4061389517"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"4061990704"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"4062108332"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"4062224166"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319420-2"
+LAST\tP36\t"1260073457"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319420-2"
+LAST\tP36\t"1318587189"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP29\t"319420-2"
+LAST\tP36\t"1928760691"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319420-2"
+LAST\tP36\t"4062040518"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP30\tisotype
+LAST\tP29\t"319420-2"
+LAST\tP36\t"4062058558"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tLen\t"Typification assertion: holotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP30\tholotype
+LAST\tP29\t"319420-2"
+LAST\tP36\t"4062179524"

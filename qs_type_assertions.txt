@@ -1,0 +1,2227 @@
+INIT
+CREATE
+LAST\tLen\t"Typification assertion: type of Abacopteris truncata Fée"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"60453749-2"
+LAST\tP36\t"1424258938"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abacopteris truncata Fée"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"60453749-2"
+LAST\tP36\t"1424275220"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1096921447"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1096923986"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1096927519"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1423971337"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1424330172"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1424330177"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1424330509"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100692-1"
+LAST\tP36\t"1424334422"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"1228432794"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"1259032044"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"1321713908"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"1928677553"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"1930751483"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"2998313763"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"4031518425"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"4061377274"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"4061390178"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"4061396782"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"4062009435"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"4062086589"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319428-2"
+LAST\tP36\t"912261328"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"1228389711"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"1259002565"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"1317927651"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"1929682604"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"1999238856"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"2517320295"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"4031522357"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"4061370111"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"4061389517"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"4061990704"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"4062108332"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319587-2"
+LAST\tP36\t"4062224166"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319420-2"
+LAST\tP36\t"1260073457"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319420-2"
+LAST\tP36\t"1318587189"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319420-2"
+LAST\tP36\t"1928760691"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319420-2"
+LAST\tP36\t"4062040518"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319420-2"
+LAST\tP36\t"4062058558"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema commutata Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319420-2"
+LAST\tP36\t"4062179524"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema curvicarpa var. rodriguesii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319417-2"
+LAST\tP36\t"1042627700"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema curvicarpa var. rodriguesii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319417-2"
+LAST\tP36\t"2855906312"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"1094784920"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"1208829295"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"1208829305"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"1423971198"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"1500373189"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"1500373195"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"1500373215"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"1500373233"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"1571705826"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"1571705854"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"1638342830"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"1929658510"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"2997645922"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"2997645934"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"2997645935"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"2997645948"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"2998324274"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"4519444090"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77159958-1"
+LAST\tP36\t"4519451062"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema gallorum Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319416-2"
+LAST\tP36\t"2849808316"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema gallorum Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319416-2"
+LAST\tP36\t"4062217103"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema gallorum Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"319416-2"
+LAST\tP36\t"437308714"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema gallorum Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"319416-2"
+LAST\tP36\t"437973759"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema gallorum Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319416-2"
+LAST\tP36\t"438639310"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema ganymedea Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319418-2"
+LAST\tP36\t"1260036775"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema ganymedea Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319418-2"
+LAST\tP36\t"1319095497"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema ganymedea Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319418-2"
+LAST\tP36\t"1999104311"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema ganymedea Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319418-2"
+LAST\tP36\t"4062028151"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema ganymedea Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319418-2"
+LAST\tP36\t"4062173128"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema josephi Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319586-2"
+LAST\tP36\t"1228462781"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema josephi Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319586-2"
+LAST\tP36\t"1318976246"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema josephi Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319586-2"
+LAST\tP36\t"1932890637"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema josephi Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319586-2"
+LAST\tP36\t"2869170368"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema josephi Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319586-2"
+LAST\tP36\t"4061386095"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema josephi Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319586-2"
+LAST\tP36\t"4062057054"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema leucophylla var. vaupesensis Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319425-2"
+LAST\tP36\t"1321136324"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema leucophylla var. vaupesensis Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319425-2"
+LAST\tP36\t"1928361926"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema leucophylla var. vaupesensis Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319425-2"
+LAST\tP36\t"1998369385"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema leucophylla var. vaupesensis Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319425-2"
+LAST\tP36\t"2855908321"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema leucophylla var. vaupesensis Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319425-2"
+LAST\tP36\t"4061292578"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"1096926773"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"1123809247"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"1123821648"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"1123821661"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"1423971124"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"1424280576"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"1424280647"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"1424280991"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"1424330227"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"1424334505"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"1930765379"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"2996357513"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"2996357522"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"2996360393"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"2997253930"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"2997363136"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"2998177417"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77100693-1"
+LAST\tP36\t"2998214051"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema microcalyx var. enterolobioides Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319419-2"
+LAST\tP36\t"1322272792"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema microcalyx var. enterolobioides Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319419-2"
+LAST\tP36\t"1930501595"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema microcalyx var. enterolobioides Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319419-2"
+LAST\tP36\t"2855903315"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema microcalyx var. enterolobioides Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319419-2"
+LAST\tP36\t"2997571141"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema microcalyx var. enterolobioides Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"319419-2"
+LAST\tP36\t"2997825359"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema microcalyx var. enterolobioides Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"319419-2"
+LAST\tP36\t"4061961611"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema piresii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"271443-2"
+LAST\tP36\t"1803099302"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema piresii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"271443-2"
+LAST\tP36\t"1928302895"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema piresii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"271443-2"
+LAST\tP36\t"2855874314"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abarema piresii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"271443-2"
+LAST\tP36\t"2997340316"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema piresii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"271443-2"
+LAST\tP36\t"2998222529"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema piresii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"271443-2"
+LAST\tP36\t"2998481594"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema piresii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"271443-2"
+LAST\tP36\t"2998513953"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abarema piresii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"271443-2"
+LAST\tP36\t"4061385915"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema piresii Barneby & J.W.Grimes"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"271443-2"
+LAST\tP36\t"912261379"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema villosa Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100691-1"
+LAST\tP36\t"1095625598"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema villosa Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100691-1"
+LAST\tP36\t"1123803502"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema villosa Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100691-1"
+LAST\tP36\t"1123821674"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema villosa Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100691-1"
+LAST\tP36\t"1423970962"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema villosa Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100691-1"
+LAST\tP36\t"1424280603"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema villosa Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100691-1"
+LAST\tP36\t"1424280969"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema villosa Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100691-1"
+LAST\tP36\t"2452930359"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abarema villosa Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77100691-1"
+LAST\tP36\t"2452930478"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema villosa Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77100691-1"
+LAST\tP36\t"2996357664"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema villosa Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77100691-1"
+LAST\tP36\t"2996359613"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema villosa Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77100691-1"
+LAST\tP36\t"2996643606"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abarema villosa Iganci & M.P.Lima"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77100691-1"
+LAST\tP36\t"4439783227"
+CREATE
+LAST\tLen\t"Typification assertion: isolectotype of Abbevillea chrysophylla O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisolectotype
+LAST\tP29\t"271445-2"
+LAST\tP36\t"1228276070"
+CREATE
+LAST\tLen\t"Typification assertion: isolectotype of Abbevillea chrysophylla O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisolectotype
+LAST\tP29\t"271445-2"
+LAST\tP36\t"1228588447"
+CREATE
+LAST\tLen\t"Typification assertion: isolectotype of Abbevillea chrysophylla O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisolectotype
+LAST\tP29\t"271445-2"
+LAST\tP36\t"1839383040"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abbevillea fenzliana var. intermedia O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"271446-2"
+LAST\tP36\t"1228380745"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abbevillea gardneriana O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"294867-2"
+LAST\tP36\t"1228328498"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abbevillea gardneriana O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"294867-2"
+LAST\tP36\t"1228445397"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abbevillea gardneriana O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"294867-2"
+LAST\tP36\t"1322023040"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abbevillea gardneriana O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"294867-2"
+LAST\tP36\t"1928732490"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abbevillea gardneriana O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"294867-2"
+LAST\tP36\t"1929921910"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abbevillea gardneriana O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"294867-2"
+LAST\tP36\t"1999262518"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abbevillea gardneriana O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"294867-2"
+LAST\tP36\t"2997415557"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abbevillea gardneriana O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"294867-2"
+LAST\tP36\t"2997787713"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abbevillea gardneriana O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"294867-2"
+LAST\tP36\t"2997792722"
+CREATE
+LAST\tLen\t"Typification assertion: isolectotype of Abbevillea klotzschiana O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisolectotype
+LAST\tP29\t"271448-2"
+LAST\tP36\t"1228284701"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abbevillea klotzschiana O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"271448-2"
+LAST\tP36\t"1839382971"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abbevillea klotzschiana O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"271448-2"
+LAST\tP36\t"2995994120"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abbevillea maschalantha O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"271450-2"
+LAST\tP36\t"912243591"
+CREATE
+LAST\tLen\t"Typification assertion: lectotype of Abbevillea neriiflora O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tlectotype
+LAST\tP29\t"271453-2"
+LAST\tP36\t"1228544447"
+CREATE
+LAST\tLen\t"Typification assertion: isolectotype of Abbevillea neriiflora O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisolectotype
+LAST\tP29\t"271453-2"
+LAST\tP36\t"1228548094"
+CREATE
+LAST\tLen\t"Typification assertion: isolectotype of Abbevillea phaea O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisolectotype
+LAST\tP29\t"271454-2"
+LAST\tP36\t"1228395693"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abbevillea phaea O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"271454-2"
+LAST\tP36\t"1839382829"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abbevillea recurvata O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"271455-2"
+LAST\tP36\t"1228522468"
+CREATE
+LAST\tLen\t"Typification assertion: isolectotype of Abbevillea rufa O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisolectotype
+LAST\tP29\t"271456-2"
+LAST\tP36\t"1228376502"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abbevillea rufa O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"271456-2"
+LAST\tP36\t"1839387634"
+CREATE
+LAST\tLen\t"Typification assertion: lectotype of Abbevillea rugosa O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tlectotype
+LAST\tP29\t"271457-2"
+LAST\tP36\t"1228544592"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abbevillea rugosa O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"271457-2"
+LAST\tP36\t"1839383045"
+CREATE
+LAST\tLen\t"Typification assertion: isolectotype of Abbevillea sellowiana O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisolectotype
+LAST\tP29\t"271458-2"
+LAST\tP36\t"1228544609"
+CREATE
+LAST\tLen\t"Typification assertion: isolectotype of Abbevillea sellowiana O.Berg"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisolectotype
+LAST\tP29\t"271458-2"
+LAST\tP36\t"1839382959"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia coriacea var. subcoriacea Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"60459760-2"
+LAST\tP36\t"1999125977"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abelia floribunda var. foliacea Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"60459761-2"
+LAST\tP36\t"1258062762"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia grandifolia Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"1016642-1"
+LAST\tP36\t"1426518268"
+CREATE
+LAST\tLen\t"Typification assertion: notatype of Abelia grandifolia Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tnotatype
+LAST\tP29\t"1016642-1"
+LAST\tP36\t"1931086995"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia mexicana Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"1016641-1"
+LAST\tP36\t"1228339247"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abelia mexicana Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"1016641-1"
+LAST\tP36\t"1258042023"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia mexicana Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"1016641-1"
+LAST\tP36\t"1320820648"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia mexicana Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"1016641-1"
+LAST\tP36\t"1417782523"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia mexicana Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"1016641-1"
+LAST\tP36\t"1426108264"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia mexicana Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"1016641-1"
+LAST\tP36\t"1929868723"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia mexicana Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"1016641-1"
+LAST\tP36\t"4061178464"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia mexicana Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"1016641-1"
+LAST\tP36\t"4061726436"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia mexicana Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"1016641-1"
+LAST\tP36\t"4061910477"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abelia occidentalis Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"313057-2"
+LAST\tP36\t"1258062753"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia occidentalis Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"313057-2"
+LAST\tP36\t"1321533501"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia occidentalis Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"313057-2"
+LAST\tP36\t"1929128909"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia occidentalis Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"313057-2"
+LAST\tP36\t"4061195330"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia occidentalis Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"313057-2"
+LAST\tP36\t"4061708760"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia occidentalis Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"313057-2"
+LAST\tP36\t"4061912736"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abelia occidentalis Villarreal"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"313057-2"
+LAST\tP36\t"4061924783"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Aberemoa laevis R.E.Fr."
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"306160-2"
+LAST\tP36\t"1228527878"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Aberemoa stelechantha Diels"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"302611-2"
+LAST\tP36\t"1144666593"
+CREATE
+LAST\tLen\t"Typification assertion: type of Aberemoa stelechantha Diels"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"302611-2"
+LAST\tP36\t"1211533165"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Aberemoa stelechantha Diels"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"302611-2"
+LAST\tP36\t"1228475367"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Aberemoa stelechantha Diels"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"302611-2"
+LAST\tP36\t"1228500706"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Aberemoa stelechantha Diels"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"302611-2"
+LAST\tP36\t"1228577846"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Aberemoa stelechantha Diels"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"302611-2"
+LAST\tP36\t"1228628818"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Aberemoa stelechantha Diels"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"302611-2"
+LAST\tP36\t"2252098173"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abies arizonica Merriam"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"1183589-2"
+LAST\tP36\t"1317477601"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abies concolor var. martinezii Silba"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"271461-2"
+LAST\tP36\t"1998420088"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abies concolor var. martinezii Silba"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"271461-2"
+LAST\tP36\t"1998895463"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abies grandis var. idahoensis Silba"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"271463-2"
+LAST\tP36\t"1929209143"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abies grandis var. idahoensis Silba"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"271463-2"
+LAST\tP36\t"1929780397"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abies guatemalensis var. ixtepejiensis Silba"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"1012942-1"
+LAST\tP36\t"1999284017"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abies guatemalensis var. rushforthii Silba"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"1012943-1"
+LAST\tP36\t"1998613881"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abildgaardia disticha Lye"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"271466-2"
+LAST\tP36\t"1228624679"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abildgaardia disticha Lye"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"271466-2"
+LAST\tP36\t"1321257658"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abildgaardia disticha Lye"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"271466-2"
+LAST\tP36\t"1839540778"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abildgaardia disticha Lye"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"271466-2"
+LAST\tP36\t"1929822614"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abildgaardia disticha Lye"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"271466-2"
+LAST\tP36\t"2997579166"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abildgaardia papillosa Kral & M.T.Strong"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"1012333-1"
+LAST\tP36\t"1318132995"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abildgaardia papillosa Kral & M.T.Strong"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"1012333-1"
+LAST\tP36\t"2452827261"
+CREATE
+LAST\tLen\t"Typification assertion: isolectotype of Abolboda abbreviata Malme"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisolectotype
+LAST\tP29\t"309897-2"
+LAST\tP36\t"1928445738"
+CREATE
+LAST\tLen\t"Typification assertion: isolectotype of Abolboda abbreviata Malme"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisolectotype
+LAST\tP29\t"309897-2"
+LAST\tP36\t"4519467189"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abolboda acicularis var. granularis Maguire"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"4-2"
+LAST\tP36\t"1322040197"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abolboda acicularis var. granularis Maguire"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"4-2"
+LAST\tP36\t"1930124652"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abolboda acicularis var. granularis Maguire"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"4-2"
+LAST\tP36\t"2998597526"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abolboda acicularis var. granularis Maguire"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"4-2"
+LAST\tP36\t"912474265"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abolboda scabrida Kral"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"271467-2"
+LAST\tP36\t"1261313870"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abolboda scabrida Kral"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"271467-2"
+LAST\tP36\t"1930083219"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abolboda scabrida Kral"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"271467-2"
+LAST\tP36\t"1930836585"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abolboda scabrida Kral"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"271467-2"
+LAST\tP36\t"4031393742"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia antongilensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175635-1"
+LAST\tP36\t"1259221540"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia antongilensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175635-1"
+LAST\tP36\t"1848887203"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia antongilensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175635-1"
+LAST\tP36\t"3043620313"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia antongilensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175635-1"
+LAST\tP36\t"4031535796"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia antongilensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175635-1"
+LAST\tP36\t"4061395398"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia antongilensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175635-1"
+LAST\tP36\t"4062230599"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia antongilensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175635-1"
+LAST\tP36\t"4519420185"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia betamponensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175636-1"
+LAST\tP36\t"1258733500"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia betamponensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175636-1"
+LAST\tP36\t"4061344181"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia betamponensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175636-1"
+LAST\tP36\t"731147265"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia capuronii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175638-1"
+LAST\tP36\t"1258315144"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia capuronii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175638-1"
+LAST\tP36\t"3043610356"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia capuronii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175638-1"
+LAST\tP36\t"4031633101"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia capuronii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175638-1"
+LAST\tP36\t"4061256421"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia capuronii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175638-1"
+LAST\tP36\t"4061298868"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia capuronii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175638-1"
+LAST\tP36\t"4062000301"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia capuronii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175638-1"
+LAST\tP36\t"731423399"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia capuronii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175638-1"
+LAST\tP36\t"731423401"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia capuronii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175638-1"
+LAST\tP36\t"731423402"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia darainensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175639-1"
+LAST\tP36\t"1257985746"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia darainensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175639-1"
+LAST\tP36\t"1838188868"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia darainensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175639-1"
+LAST\tP36\t"4031352504"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia darainensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175639-1"
+LAST\tP36\t"4061894588"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia darainensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175639-1"
+LAST\tP36\t"4061939121"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia delphinensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175645-1"
+LAST\tP36\t"1258703429"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia delphinensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175645-1"
+LAST\tP36\t"1838188869"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia delphinensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175645-1"
+LAST\tP36\t"1838188871"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia delphinensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175645-1"
+LAST\tP36\t"3043616348"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia delphinensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175645-1"
+LAST\tP36\t"4031492991"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia delphinensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175645-1"
+LAST\tP36\t"4061343083"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia delphinensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175645-1"
+LAST\tP36\t"4062046513"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia delphinensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175645-1"
+LAST\tP36\t"4062053624"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia delphinensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175645-1"
+LAST\tP36\t"4062219762"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abrahamia delphinensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77175645-1"
+LAST\tP36\t"4089641406"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia delphinensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175645-1"
+LAST\tP36\t"731423571"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia ellipticarpa Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175648-1"
+LAST\tP36\t"1258703384"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia ellipticarpa Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175648-1"
+LAST\tP36\t"1838188877"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia ellipticarpa Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175648-1"
+LAST\tP36\t"2302246700"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia ellipticarpa Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175648-1"
+LAST\tP36\t"4031495845"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abrahamia ellipticarpa Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77175648-1"
+LAST\tP36\t"4061329956"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abrahamia ellipticarpa Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77175648-1"
+LAST\tP36\t"4061897701"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia elongata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175649-1"
+LAST\tP36\t"1258830151"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia elongata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175649-1"
+LAST\tP36\t"2284055405"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia elongata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175649-1"
+LAST\tP36\t"2515847681"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia elongata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175649-1"
+LAST\tP36\t"4031453158"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia elongata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175649-1"
+LAST\tP36\t"4061156721"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia elongata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175649-1"
+LAST\tP36\t"4061169457"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia elongata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175649-1"
+LAST\tP36\t"4061765567"
+CREATE
+LAST\tLen\t"Typification assertion: paratype of Abrahamia elongata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tparatype
+LAST\tP29\t"77175649-1"
+LAST\tP36\t"4089640405"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia elongata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175649-1"
+LAST\tP36\t"731502775"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia itremoensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175680-1"
+LAST\tP36\t"1258543840"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia itremoensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175680-1"
+LAST\tP36\t"4031479833"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia itremoensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175680-1"
+LAST\tP36\t"4061330417"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia itremoensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175680-1"
+LAST\tP36\t"730766173"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia lenticellata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175684-1"
+LAST\tP36\t"1258703395"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia lenticellata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175684-1"
+LAST\tP36\t"2459113189"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia lenticellata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175684-1"
+LAST\tP36\t"4031487874"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia lenticellata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175684-1"
+LAST\tP36\t"4061339459"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia lenticellata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175684-1"
+LAST\tP36\t"731422648"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia littoralis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175686-1"
+LAST\tP36\t"1258543963"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia littoralis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175686-1"
+LAST\tP36\t"1930240613"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia littoralis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175686-1"
+LAST\tP36\t"4031881911"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia littoralis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175686-1"
+LAST\tP36\t"4061303448"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia littoralis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175686-1"
+LAST\tP36\t"4061310068"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia littoralis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175686-1"
+LAST\tP36\t"4061328760"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia littoralis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175686-1"
+LAST\tP36\t"4062057337"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia littoralis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175686-1"
+LAST\tP36\t"4519414183"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia littoralis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175686-1"
+LAST\tP36\t"731422829"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia lokobensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175688-1"
+LAST\tP36\t"1258522024"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia lokobensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175688-1"
+LAST\tP36\t"3043603348"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia lokobensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175688-1"
+LAST\tP36\t"4031881737"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia lokobensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175688-1"
+LAST\tP36\t"4061272064"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia lokobensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175688-1"
+LAST\tP36\t"4061868102"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia lokobensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175688-1"
+LAST\tP36\t"4062026076"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia lokobensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175688-1"
+LAST\tP36\t"4062216256"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia lokobensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175688-1"
+LAST\tP36\t"731422486"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia longipetiolata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175690-1"
+LAST\tP36\t"1260384718"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia longipetiolata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175690-1"
+LAST\tP36\t"4031686054"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia longipetiolata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175690-1"
+LAST\tP36\t"4061566678"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia longipetiolata Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175690-1"
+LAST\tP36\t"731350393"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia minutifolia Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175693-1"
+LAST\tP36\t"1258543975"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abrahamia minutifolia Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77175693-1"
+LAST\tP36\t"1929751951"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia minutifolia Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175693-1"
+LAST\tP36\t"4031467890"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia minutifolia Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175693-1"
+LAST\tP36\t"4061314554"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia minutifolia Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175693-1"
+LAST\tP36\t"4061931701"
+CREATE
+LAST\tLen\t"Typification assertion: type of Abrahamia minutifolia Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\ttype
+LAST\tP29\t"77175693-1"
+LAST\tP36\t"4519418206"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia minutifolia Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175693-1"
+LAST\tP36\t"731425022"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia patrickii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175697-1"
+LAST\tP36\t"1257988166"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia patrickii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175697-1"
+LAST\tP36\t"1837440327"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia patrickii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175697-1"
+LAST\tP36\t"4032142516"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia patrickii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175697-1"
+LAST\tP36\t"4061135450"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia patrickii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175697-1"
+LAST\tP36\t"4061893548"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia phillipsonii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175700-1"
+LAST\tP36\t"1258822146"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia phillipsonii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175700-1"
+LAST\tP36\t"2284057256"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia phillipsonii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175700-1"
+LAST\tP36\t"2515937782"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia phillipsonii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175700-1"
+LAST\tP36\t"4031858155"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia phillipsonii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175700-1"
+LAST\tP36\t"4061156714"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia phillipsonii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175700-1"
+LAST\tP36\t"4061177692"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia phillipsonii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175700-1"
+LAST\tP36\t"4061765563"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia phillipsonii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175700-1"
+LAST\tP36\t"4061906782"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia phillipsonii Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175700-1"
+LAST\tP36\t"731424063"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia revoluta Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175702-1"
+LAST\tP36\t"1258348214"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia revoluta Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175702-1"
+LAST\tP36\t"2459113460"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia revoluta Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175702-1"
+LAST\tP36\t"4031957338"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia revoluta Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175702-1"
+LAST\tP36\t"731423662"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia sambiranensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175704-1"
+LAST\tP36\t"1258703493"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia sambiranensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175704-1"
+LAST\tP36\t"4031488878"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia sambiranensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175704-1"
+LAST\tP36\t"4061873651"
+CREATE
+LAST\tLen\t"Typification assertion: isotype of Abrahamia sambiranensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tisotype
+LAST\tP29\t"77175704-1"
+LAST\tP36\t"4062053628"
+CREATE
+LAST\tLen\t"Typification assertion: holotype of Abrahamia sambiranensis Randrian. & Lowry"
+LAST\tDen\t"link between a specimen and the name it is a type for"
+LAST\tP1\tQ47338
+LAST\tP30\tholotype
+LAST\tP29\t"77175704-1"
+LAST\tP36\t"731422825"

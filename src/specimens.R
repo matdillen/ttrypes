@@ -1,6 +1,8 @@
-spec = gt %>%
+spec = gtj %>%
   filter(basisOfRecord == "PRESERVED_SPECIMEN") %>%
   filter(kingdom == "Plantae")
+
+querc = filter(spec,scientificName=="Quercus robur L.")
 
 # spec_c = spec %>%
 #   count(scientificName)

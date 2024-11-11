@@ -1,0 +1,247 @@
+INIT
+CREATE
+LAST\tLen\t"urn:catalog:JBRJ:RB:543144"
+LAST\tDen\t"a plant specimen known as Abacopteris truncata Fée collected by Cuming at Leyte"
+LAST\tP1\tQ4
+LAST\tP34\t"1424258938"
+LAST\tP29\t"60453749-2"
+CREATE
+LAST\tLen\t"urn:catalog:JBRJ:RB:561282"
+LAST\tDen\t"a plant specimen known as Abacopteris truncata Fée collected by Cuming"
+LAST\tP1\tQ4
+LAST\tP34\t"1424275220"
+LAST\tP29\t"60453749-2"
+CREATE
+LAST\tLen\t"BRA:CVRD:CVRD:1967"
+LAST\tDen\t"a plant specimen known as Abarema barnebyana Iganci & M.P.Lima collected by Folli, D.A. in 1988-07-08"
+LAST\tP1\tQ4
+LAST\tP34\t"1096921447"
+LAST\tP29\t"77100692-1"
+CREATE
+LAST\tLen\t"BRA:CVRD:CVRD:4530"
+LAST\tDen\t"a plant specimen known as Abarema barnebyana Iganci & M.P.Lima collected by Souza, V.D. in 1993-08-11 at Lado direito da estrada."
+LAST\tP1\tQ4
+LAST\tP34\t"1096923986"
+LAST\tP29\t"77100692-1"
+CREATE
+LAST\tLen\t"BRA:CVRD:CVRD:8093"
+LAST\tDen\t"a plant specimen known as Abarema barnebyana Iganci & M.P.Lima collected by Folli, D.A. in 2003-03-10 at Pontal do Ipiranga"
+LAST\tP1\tQ4
+LAST\tP34\t"1096927519"
+LAST\tP29\t"77100692-1"
+CREATE
+LAST\tLen\t"urn:catalog:JBRJ:RB:158375"
+LAST\tDen\t"a plant specimen known as Abarema barnebyana Iganci & M.P.Lima collected by D.A.Folli in 1988-08-08 at Reserva Biologica de Comboio. IBDF."
+LAST\tP1\tQ4
+LAST\tP34\t"1423971337"
+LAST\tP29\t"77100692-1"
+CREATE
+LAST\tLen\t"urn:catalog:JBRJ:RB:621246"
+LAST\tDen\t"a plant specimen known as Abarema barnebyana Iganci & M.P.Lima collected by D.A. Folli in 2003-03-10 at Pontal do Ipiranga. estrada municipal do Pontal do Ipiranga."
+LAST\tP1\tQ4
+LAST\tP34\t"1424330172"
+LAST\tP29\t"77100692-1"
+CREATE
+LAST\tLen\t"urn:catalog:JBRJ:RB:621261"
+LAST\tDen\t"a plant specimen known as Abarema barnebyana Iganci & M.P.Lima collected by V. de Souza in 1993-08-11 at Povoação, lado direito da estrada."
+LAST\tP1\tQ4
+LAST\tP34\t"1424330177"
+LAST\tP29\t"77100692-1"
+CREATE
+LAST\tLen\t"urn:catalog:JBRJ:RB:621459"
+LAST\tDen\t"a plant specimen known as Abarema barnebyana Iganci & M.P.Lima collected by D.A.Folli in 1988-08-08 at Reserva Biologica de Comboio. IBDF."
+LAST\tP1\tQ4
+LAST\tP34\t"1424330509"
+LAST\tP29\t"77100692-1"
+CREATE
+LAST\tLen\t"urn:catalog:JBRJ:RB:625158"
+LAST\tDen\t"a plant specimen known as Abarema barnebyana Iganci & M.P.Lima collected by V. de Souza in 1993-08-11 at Povoação, lado direito da estrada."
+LAST\tP1\tQ4
+LAST\tP34\t"1424334422"
+LAST\tP29\t"77100692-1"
+CREATE
+LAST\tLen\t"825b1c51-5ae0-4c9c-8672-0512f8e010f9"
+LAST\tDen\t"a plant specimen known as Abarema callejasii Barneby & J.W.Grimes collected by R. Callejas & et al. in 1988-03-21"
+LAST\tP1\tQ4
+LAST\tP34\t"1228432794"
+LAST\tP29\t"319428-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:1783292"
+LAST\tDen\t"a plant specimen known as Abarema callejasii Barneby & J.W.Grimes collected by Ricardo Callejas;Francisco J. Roldán;Alba L. Arbeláez in 1988-03-21 at Desvio a Vereda Manzanares, 4 Km O de la Troncal del Caribe sobre la vía Ventanas (Mun. Yarumal)-Briceño, bosque pluvial montano (Sensu Holdrige),"
+LAST\tP1\tQ4
+LAST\tP34\t"1259032044"
+LAST\tP29\t"319428-2"
+CREATE
+LAST\tLen\t"http://n2t.net/ark:/65665/3c7871c9d-ae1e-4b57-9ef2-f668c877509c"
+LAST\tDen\t"a plant specimen known as Abarema callejasii Barneby & J.W.Grimes collected by R. Callejas, F. J. Roldán & A. L. Arbelaez in 1988-03-21 at Desvio a Vereda Manzanares, 4 km o de Troncal del Caribe Sobre La via Ventanas (Mun. Yarumal)-Briceno."
+LAST\tP1\tQ4
+LAST\tP34\t"1321713908"
+LAST\tP29\t"319428-2"
+CREATE
+LAST\tLen\t"4054c892-4367-43a3-9076-37cb69fadada"
+LAST\tDen\t"a plant specimen known as Abarema callejasii Barneby & J.W.Grimes collected by R. Callejas Posada in 1988-03-21 at Municipio Briceño: Desvio a Vereda Manzanares, 4 km O de la Troncal del Caribe sobre la vía Ventanas (Mun. Yarumal)-Briceño."
+LAST\tP1\tQ4
+LAST\tP34\t"1928677553"
+LAST\tP29\t"319428-2"
+CREATE
+LAST\tLen\t"d3218ca1-efd5-4935-b6b6-c91c7733625b"
+LAST\tDen\t"a plant specimen known as Abarema callejasii Barneby & J.W.Grimes collected by R. Callejas Posada in 1988-03-21 at Municipio Briceño: Desvio a Vereda Manzanares, 4 km O de la Troncal del Caribe sobre la vía Ventanas (Mun. Yarumal)-Briceño."
+LAST\tP1\tQ4
+LAST\tP34\t"1930751483"
+LAST\tP29\t"319428-2"
+CREATE
+LAST\tLen\t"2770438"
+LAST\tDen\t"a plant specimen known as Abarema callejasii Barneby & J.W.Grimes collected by Callejas, R. in 1988-03-21 at Mun. Briceno: en bosque pluvial montano, desvio a Vereda Manzanares, 4 km O de la Troncal del Caribe sobre la via Ventanas-Briceno (75 30'W, 7 15'N)."
+LAST\tP1\tQ4
+LAST\tP34\t"2998313763"
+LAST\tP29\t"319428-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:101935250"
+LAST\tDen\t"a plant specimen known as Abarema callejasii Barneby & J.W.Grimes collected by Ricardo Callejas;Francisco J. Roldán;Alba L. Arbeláez in 1988-03-21 at Desvio a Vereda Manzanares, 4 Km O de la Troncal del Caribe sobre la vía Ventanas (Mun. Yarumal)-Briceño, bosque pluvial montano (Sensu Holdrige),"
+LAST\tP1\tQ4
+LAST\tP34\t"4031518425"
+LAST\tP29\t"319428-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:101935248"
+LAST\tDen\t"a plant specimen known as Abarema callejasii Barneby & J.W.Grimes collected by Ricardo Callejas;Francisco J. Roldán;Alba L. Arbeláez in 1988-03-21 at Desvio a Vereda Manzanares, 4 Km O de la Troncal del Caribe sobre la vía Ventanas (Mun. Yarumal)-Briceño, bosque pluvial montano (Sensu Holdrige),"
+LAST\tP1\tQ4
+LAST\tP34\t"4061377274"
+LAST\tP29\t"319428-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:101935253"
+LAST\tDen\t"a plant specimen known as Abarema callejasii Barneby & J.W.Grimes collected by Ricardo Callejas;Francisco J. Roldán;Alba L. Arbeláez in 1988-03-21 at Desvio a Vereda Manzanares, 4 Km O de la Troncal del Caribe sobre la vía Ventanas (Mun. Yarumal)-Briceño, bosque pluvial montano (Sensu Holdrige),"
+LAST\tP1\tQ4
+LAST\tP34\t"4061390178"
+LAST\tP29\t"319428-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:101935251"
+LAST\tDen\t"a plant specimen known as Abarema callejasii Barneby & J.W.Grimes collected by Ricardo Callejas;Francisco J. Roldán;Alba L. Arbeláez in 1988-03-21 at Desvio a Vereda Manzanares, 4 Km O de la Troncal del Caribe sobre la vía Ventanas (Mun. Yarumal)-Briceño, bosque pluvial montano (Sensu Holdrige),"
+LAST\tP1\tQ4
+LAST\tP34\t"4061396782"
+LAST\tP29\t"319428-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:101935249"
+LAST\tDen\t"a plant specimen known as Abarema callejasii Barneby & J.W.Grimes collected by Ricardo Callejas;Francisco J. Roldán;Alba L. Arbeláez in 1988-03-21 at Desvio a Vereda Manzanares, 4 Km O de la Troncal del Caribe sobre la vía Ventanas (Mun. Yarumal)-Briceño, bosque pluvial montano (Sensu Holdrige),"
+LAST\tP1\tQ4
+LAST\tP34\t"4062009435"
+LAST\tP29\t"319428-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:101935252"
+LAST\tDen\t"a plant specimen known as Abarema callejasii Barneby & J.W.Grimes collected by Ricardo Callejas;Francisco J. Roldán;Alba L. Arbeláez in 1988-03-21 at Desvio a Vereda Manzanares, 4 Km O de la Troncal del Caribe sobre la vía Ventanas (Mun. Yarumal)-Briceño, bosque pluvial montano (Sensu Holdrige),"
+LAST\tP1\tQ4
+LAST\tP34\t"4062086589"
+LAST\tP29\t"319428-2"
+CREATE
+LAST\tLen\t"http://specimens.kew.org/herbarium/K000297429"
+LAST\tDen\t"a plant specimen known as Abarema callejasii Barneby & J.W.Grimes collected by Callejas, R. in 1988-03-21T00:00 at Mun. Briceno: en bosque pluvial montano, desvio a Vereda Manzanares, 4 km O de la Troncal del Caribe sobre la via Ventanas-Briceno (75°30'W, 7°15'N)."
+LAST\tP1\tQ4
+LAST\tP34\t"912261328"
+LAST\tP29\t"319428-2"
+CREATE
+LAST\tLen\t"de2ff631-a7d0-4863-a377-6b13b45b10d1"
+LAST\tDen\t"a plant specimen known as Abarema centiflora Barneby & J.W.Grimes collected by R. F. Steinbach in 1966-11-25"
+LAST\tP1\tQ4
+LAST\tP34\t"1228389711"
+LAST\tP29\t"319587-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:1756477"
+LAST\tDen\t"a plant specimen known as Abarema centiflora Barneby & J.W.Grimes collected by Roy F. Steinbach in 1966-11-25 at El Limbo."
+LAST\tP1\tQ4
+LAST\tP34\t"1259002565"
+LAST\tP29\t"319587-2"
+CREATE
+LAST\tLen\t"http://n2t.net/ark:/65665/3200fd0f3-21ef-4f37-8c9c-ea8b0afbf647"
+LAST\tDen\t"a plant specimen known as Abarema centiflora Barneby & J.W.Grimes collected by R. F. Steinbach in 1986-11-25 at El Limo."
+LAST\tP1\tQ4
+LAST\tP34\t"1317927651"
+LAST\tP29\t"319587-2"
+CREATE
+LAST\tLen\t"8793645c-d455-4f63-a75b-af31121deff2"
+LAST\tDen\t"a plant specimen known as Abarema centiflora Barneby & J.W.Grimes collected by R. F. Steinbach in 1966-11-25 at El Limbo."
+LAST\tP1\tQ4
+LAST\tP34\t"1929682604"
+LAST\tP29\t"319587-2"
+CREATE
+LAST\tLen\t"d36596ea-b7ae-4280-9f73-bd7e90c16bdd"
+LAST\tDen\t"a plant specimen known as Abarema centiflora Barneby & J.W.Grimes collected by R. F. Steinbach in 1966-11-25 at El Limbo Prov. Chapare"
+LAST\tP1\tQ4
+LAST\tP34\t"1999238856"
+LAST\tP29\t"319587-2"
+CREATE
+LAST\tLen\t"https://data.biodiversitydata.nl/naturalis/specimen/U%20%200003328"
+LAST\tDen\t"a plant specimen known as Abarema centiflora Barneby & J.W.Grimes collected by Steinbach RF in 1966-11-25 at El Limbo Prov. Chapare Depto. Cochabamba"
+LAST\tP1\tQ4
+LAST\tP34\t"2517320295"
+LAST\tP29\t"319587-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:101918939"
+LAST\tDen\t"a plant specimen known as Abarema centiflora Barneby & J.W.Grimes collected by Roy F. Steinbach in 1966-11-25 at El Limbo."
+LAST\tP1\tQ4
+LAST\tP34\t"4031522357"
+LAST\tP29\t"319587-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:101918937"
+LAST\tDen\t"a plant specimen known as Abarema centiflora Barneby & J.W.Grimes collected by Roy F. Steinbach in 1966-11-25 at El Limbo."
+LAST\tP1\tQ4
+LAST\tP34\t"4061370111"
+LAST\tP29\t"319587-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:101918940"
+LAST\tDen\t"a plant specimen known as Abarema centiflora Barneby & J.W.Grimes collected by Roy F. Steinbach in 1966-11-25 at El Limbo."
+LAST\tP1\tQ4
+LAST\tP34\t"4061389517"
+LAST\tP29\t"319587-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:101918936"
+LAST\tDen\t"a plant specimen known as Abarema centiflora Barneby & J.W.Grimes collected by Roy F. Steinbach in 1966-11-25 at El Limbo."
+LAST\tP1\tQ4
+LAST\tP34\t"4061990704"
+LAST\tP29\t"319587-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:101918938"
+LAST\tDen\t"a plant specimen known as Abarema centiflora Barneby & J.W.Grimes collected by Roy F. Steinbach in 1966-11-25 at El Limbo."
+LAST\tP1\tQ4
+LAST\tP34\t"4062108332"
+LAST\tP29\t"319587-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:101918941"
+LAST\tDen\t"a plant specimen known as Abarema centiflora Barneby & J.W.Grimes collected by Roy F. Steinbach in 1966-11-25 at El Limbo."
+LAST\tP1\tQ4
+LAST\tP34\t"4062224166"
+LAST\tP29\t"319587-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:2729626"
+LAST\tDen\t"a plant specimen known as Abarema commutata Barneby & J.W.Grimes collected by Bassett Maguire;Celia K. Maguire;G. Wilson-Browne in 1961-09-04 at Southern Pakaraima mountains. Waipa Trail from north Kopinang Savanna."
+LAST\tP1\tQ4
+LAST\tP34\t"1260073457"
+LAST\tP29\t"319420-2"
+CREATE
+LAST\tLen\t"http://n2t.net/ark:/65665/33d3dc7f1-f3f8-436f-a001-cd00e3d88515"
+LAST\tDen\t"a plant specimen known as Abarema commutata Barneby & J.W.Grimes collected by B. Maguire, C. K. Maguire & G. Wilson-Browne in 1961-09-04 at S Pakaraima Mountains, Waipa trail from N Hopinang Savanna."
+LAST\tP1\tQ4
+LAST\tP34\t"1318587189"
+LAST\tP29\t"319420-2"
+CREATE
+LAST\tLen\t"462e7996-a873-45db-9abc-7a81a8e4d809"
+LAST\tDen\t"a plant specimen known as Abarema commutata Barneby & J.W.Grimes collected by B. Maguire in 1961-09-04 at Southern Pakaraima Mountains: Waipa Trail from N Kopinang Savanna. Alt. 2750 ft."
+LAST\tP1\tQ4
+LAST\tP34\t"1928760691"
+LAST\tP29\t"319420-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:102167318"
+LAST\tDen\t"a plant specimen known as Abarema commutata Barneby & J.W.Grimes collected by Bassett Maguire;Celia K. Maguire;G. Wilson-Browne in 1961-09-04 at Southern Pakaraima mountains. Waipa Trail from north Kopinang Savanna."
+LAST\tP1\tQ4
+LAST\tP34\t"4062040518"
+LAST\tP29\t"319420-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:102167319"
+LAST\tDen\t"a plant specimen known as Abarema commutata Barneby & J.W.Grimes collected by Bassett Maguire;Celia K. Maguire;G. Wilson-Browne in 1961-09-04 at Southern Pakaraima mountains. Waipa Trail from north Kopinang Savanna."
+LAST\tP1\tQ4
+LAST\tP34\t"4062058558"
+LAST\tP29\t"319420-2"
+CREATE
+LAST\tLen\t"urn:catalog:MO:Tropicos:102167317"
+LAST\tDen\t"a plant specimen known as Abarema commutata Barneby & J.W.Grimes collected by Bassett Maguire;Celia K. Maguire;G. Wilson-Browne in 1961-09-04 at Southern Pakaraima mountains. Waipa Trail from north Kopinang Savanna."
+LAST\tP1\tQ4
+LAST\tP34\t"4062179524"
+LAST\tP29\t"319420-2"

@@ -5,8 +5,10 @@ institutionCode
 collectionCode
 basisOfRecord
 occurrenceID
+catalogNumber
 recordNumber
 recordedBy
+fieldNumber
 eventDate
 year
 month
@@ -20,7 +22,15 @@ nameAccordingTo
 namePublishedIn
 namePublishedInYear
 taxonRank
+taxonomicStatus
 nomenclaturalStatus
 mediaType
 typifiedName
 kingdom
+datasetID
+datasetKey
+issue
+mediaType
+verbatimScientificName
+acceptedNameUsage
+taxonKey
