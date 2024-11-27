@@ -1,0 +1,7 @@
+status,item
+isotype,Q47323
+holotype,Q47316
+lectotype,Q47321
+isolectotype,Q47326
+neotype,Q47319
+paratype,Q47318

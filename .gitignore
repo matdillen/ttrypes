@@ -3,3 +3,7 @@
 .RData
 .Ruserdata
 data/0*
+data/missing
+*.zip
+oauth_config.py
+__pycache__

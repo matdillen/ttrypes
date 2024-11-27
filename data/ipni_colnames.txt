@@ -1,0 +1,17 @@
+col:ID
+col:nameID
+col:citation
+col:status.x
+col:locality
+col:date
+col:collector
+col:institutionCode
+col:catalogNumber
+col:scientificName
+col:authorship
+col:rank
+col:notho
+col:infraspecificEpithet
+col:combinationAuthorship
+col:nameReferenceID
+col:link.y

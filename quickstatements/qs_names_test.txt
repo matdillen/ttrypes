@@ -1,0 +1,21 @@
+INIT
+CREATE
+LAST\tLen\t"Abutilon esculentum A.St.-Hil."
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon esculentum A.St.-Hil."
+LAST\tP15\t"A.St.-Hil."
+LAST\tP32\t"323488-2"
+LAST\tP7\t"3939139"
+CREATE
+LAST\tLen\t"Abutilon figarianum Webb"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon figarianum Webb"
+LAST\tP15\t"Webb"
+LAST\tP32\t"323494-2"
+LAST\tP7\t"3939056"

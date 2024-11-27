@@ -1,0 +1,12 @@
+rank,rankLabel
+Q10,kingdom
+Q11,phylum
+Q12,class
+Q13,order
+Q14,family
+Q15,genus
+Q16,species
+Q17,subspecies
+Q18,variety
+Q19,form
+Q20,unranked

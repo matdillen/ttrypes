@@ -1,0 +1,1008 @@
+INIT
+CREATE
+LAST\tLen\t"Abarema barnebyana Iganci & M.P.Lima"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abarema barnebyana Iganci & M.P.Lima"
+LAST\tP15\t"Iganci & M.P.Lima"
+LAST\tP32\t"77100692-1"
+LAST\tP7\t"8322626"
+CREATE
+LAST\tLen\t"Abarema callejasii Barneby & J.W.Grimes"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abarema callejasii Barneby & J.W.Grimes"
+LAST\tP15\t"Barneby & J.W.Grimes"
+LAST\tP32\t"319428-2"
+LAST\tP7\t"2977894"
+CREATE
+LAST\tLen\t"Abarema centiflora Barneby & J.W.Grimes"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abarema centiflora Barneby & J.W.Grimes"
+LAST\tP15\t"Barneby & J.W.Grimes"
+LAST\tP32\t"319587-2"
+LAST\tP7\t"2977822"
+CREATE
+LAST\tLen\t"Abarema commutata Barneby & J.W.Grimes"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abarema commutata Barneby & J.W.Grimes"
+LAST\tP15\t"Barneby & J.W.Grimes"
+LAST\tP32\t"319420-2"
+LAST\tP7\t"2977842"
+CREATE
+LAST\tLen\t"Abarema curvicarpa var. rodriguesii Barneby & J.W.Grimes"
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abarema curvicarpa var. rodriguesii Barneby & J.W.Grimes"
+LAST\tP15\t"Barneby & J.W.Grimes"
+LAST\tP32\t"319417-2"
+LAST\tP7\t"2977928"
+CREATE
+LAST\tLen\t"Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abarema diamantina E.Guerra, Iganci & M.P.Morim"
+LAST\tP15\t"E.Guerra, Iganci & M.P.Morim"
+LAST\tP32\t"77159958-1"
+LAST\tP7\t"9256425"
+CREATE
+LAST\tLen\t"Abarema gallorum Barneby & J.W.Grimes"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abarema gallorum Barneby & J.W.Grimes"
+LAST\tP15\t"Barneby & J.W.Grimes"
+LAST\tP32\t"319416-2"
+LAST\tP7\t"2977963"
+CREATE
+LAST\tLen\t"Abarema ganymedea Barneby & J.W.Grimes"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abarema ganymedea Barneby & J.W.Grimes"
+LAST\tP15\t"Barneby & J.W.Grimes"
+LAST\tP32\t"319418-2"
+LAST\tP7\t"2977947"
+CREATE
+LAST\tLen\t"Abarema josephi Barneby & J.W.Grimes"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abarema josephi Barneby & J.W.Grimes"
+LAST\tP15\t"Barneby & J.W.Grimes"
+LAST\tP32\t"319586-2"
+LAST\tP7\t"2977924"
+CREATE
+LAST\tLen\t"Abarema leucophylla var. vaupesensis Barneby & J.W.Grimes"
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abarema leucophylla var. vaupesensis Barneby & J.W.Grimes"
+LAST\tP15\t"Barneby & J.W.Grimes"
+LAST\tP32\t"319425-2"
+LAST\tP7\t"3794967"
+CREATE
+LAST\tLen\t"Abarema limae Iganci & M.P.Lima"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abarema limae Iganci & M.P.Lima"
+LAST\tP15\t"Iganci & M.P.Lima"
+LAST\tP32\t"77100693-1"
+LAST\tP7\t"7494503"
+CREATE
+LAST\tLen\t"Abarema microcalyx var. enterolobioides Barneby & J.W.Grimes"
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abarema microcalyx var. enterolobioides Barneby & J.W.Grimes"
+LAST\tP15\t"Barneby & J.W.Grimes"
+LAST\tP32\t"319419-2"
+LAST\tP7\t"2977943"
+CREATE
+LAST\tLen\t"Abarema piresii Barneby & J.W.Grimes"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abarema piresii Barneby & J.W.Grimes"
+LAST\tP15\t"Barneby & J.W.Grimes"
+LAST\tP32\t"271443-2"
+LAST\tP7\t"2977882"
+CREATE
+LAST\tLen\t"Abarema villosa Iganci & M.P.Lima"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abarema villosa Iganci & M.P.Lima"
+LAST\tP15\t"Iganci & M.P.Lima"
+LAST\tP32\t"77100691-1"
+LAST\tP7\t"7768545"
+CREATE
+LAST\tLen\t"Abbevillea chrysophylla O.Berg"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abbevillea chrysophylla O.Berg"
+LAST\tP15\t"O.Berg"
+LAST\tP32\t"271445-2"
+LAST\tP7\t"3181062"
+CREATE
+LAST\tLen\t"Abbevillea fenzliana var. intermedia O.Berg"
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abbevillea fenzliana var. intermedia O.Berg"
+LAST\tP15\t"O.Berg"
+LAST\tP32\t"271446-2"
+LAST\tP7\t"3180923"
+CREATE
+LAST\tLen\t"Abbevillea klotzschiana O.Berg"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abbevillea klotzschiana O.Berg"
+LAST\tP15\t"O.Berg"
+LAST\tP32\t"271448-2"
+LAST\tP7\t"3180945"
+CREATE
+LAST\tLen\t"Abbevillea neriiflora O.Berg"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abbevillea neriiflora O.Berg"
+LAST\tP15\t"O.Berg"
+LAST\tP32\t"271453-2"
+LAST\tP7\t"3181079"
+CREATE
+LAST\tLen\t"Abbevillea phaea O.Berg"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abbevillea phaea O.Berg"
+LAST\tP15\t"O.Berg"
+LAST\tP32\t"271454-2"
+LAST\tP32\t"307695-2"
+LAST\tP7\t"3181127"
+CREATE
+LAST\tLen\t"Abbevillea rufa O.Berg"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abbevillea rufa O.Berg"
+LAST\tP15\t"O.Berg"
+LAST\tP32\t"271456-2"
+LAST\tP7\t"3181080"
+CREATE
+LAST\tLen\t"Abbevillea rugosa O.Berg"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abbevillea rugosa O.Berg"
+LAST\tP15\t"O.Berg"
+LAST\tP32\t"271457-2"
+LAST\tP7\t"3181114"
+CREATE
+LAST\tLen\t"Abbevillea sellowiana O.Berg"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abbevillea sellowiana O.Berg"
+LAST\tP15\t"O.Berg"
+LAST\tP32\t"271458-2"
+LAST\tP7\t"3180919"
+CREATE
+LAST\tLen\t"Abelia coriacea var. subcoriacea Villarreal"
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abelia coriacea var. subcoriacea Villarreal"
+LAST\tP15\t"Villarreal"
+LAST\tP32\t"60459760-2"
+LAST\tP7\t"8398886"
+CREATE
+LAST\tLen\t"Abelia floribunda var. foliacea Villarreal"
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abelia floribunda var. foliacea Villarreal"
+LAST\tP15\t"Villarreal"
+LAST\tP32\t"60459761-2"
+LAST\tP7\t"8008730"
+CREATE
+LAST\tLen\t"Abelia grandifolia Villarreal"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abelia grandifolia Villarreal"
+LAST\tP15\t"Villarreal"
+LAST\tP32\t"320531-2"
+LAST\tP7\t"8746992"
+CREATE
+LAST\tLen\t"Abelia mexicana Villarreal"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abelia mexicana Villarreal"
+LAST\tP15\t"Villarreal"
+LAST\tP32\t"1016641-1"
+LAST\tP32\t"320530-2"
+LAST\tP7\t"9002593"
+CREATE
+LAST\tLen\t"Abelia occidentalis Villarreal"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abelia occidentalis Villarreal"
+LAST\tP15\t"Villarreal"
+LAST\tP32\t"313057-2"
+LAST\tP32\t"995560-1"
+LAST\tP7\t"8719833"
+CREATE
+LAST\tLen\t"Aberemoa laevis R.E.Fr."
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Aberemoa laevis R.E.Fr."
+LAST\tP15\t"R.E.Fr."
+LAST\tP32\t"306160-2"
+LAST\tP7\t"3157583"
+CREATE
+LAST\tLen\t"Abies arizonica Merriam"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abies arizonica Merriam"
+LAST\tP15\t"Merriam"
+LAST\tP32\t"1183589-2"
+LAST\tP7\t"2685375"
+CREATE
+LAST\tLen\t"Abies concolor var. martinezii Silba"
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abies concolor var. martinezii Silba"
+LAST\tP15\t"Silba"
+LAST\tP32\t"271461-2"
+LAST\tP7\t"2685592"
+CREATE
+LAST\tLen\t"Abies grandis var. idahoensis Silba"
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abies grandis var. idahoensis Silba"
+LAST\tP15\t"Silba"
+LAST\tP32\t"271463-2"
+LAST\tP7\t"2685381"
+CREATE
+LAST\tLen\t"Abies guatemalensis var. rushforthii Silba"
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abies guatemalensis var. rushforthii Silba"
+LAST\tP15\t"Silba"
+LAST\tP32\t"1012943-1"
+LAST\tP7\t"2685517"
+CREATE
+LAST\tLen\t"Abildgaardia disticha Lye"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abildgaardia disticha Lye"
+LAST\tP15\t"Lye"
+LAST\tP32\t"271466-2"
+LAST\tP7\t"2719218"
+CREATE
+LAST\tLen\t"Abildgaardia papillosa Kral & M.T.Strong"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abildgaardia papillosa Kral & M.T.Strong"
+LAST\tP15\t"Kral & M.T.Strong"
+LAST\tP32\t"1012333-1"
+LAST\tP32\t"318888-2"
+LAST\tP7\t"3584223"
+CREATE
+LAST\tLen\t"Abolboda abbreviata Malme"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abolboda abbreviata Malme"
+LAST\tP15\t"Malme"
+LAST\tP32\t"309897-2"
+LAST\tP7\t"2692546"
+CREATE
+LAST\tLen\t"Abolboda acicularis var. granularis Maguire"
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abolboda acicularis var. granularis Maguire"
+LAST\tP15\t"Maguire"
+LAST\tP32\t"4-2"
+LAST\tP7\t"2692518"
+CREATE
+LAST\tLen\t"Abolboda scabrida Kral"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abolboda scabrida Kral"
+LAST\tP15\t"Kral"
+LAST\tP32\t"271467-2"
+LAST\tP32\t"311000-2"
+LAST\tP7\t"2692573"
+CREATE
+LAST\tLen\t"Abrahamia antongilensis Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia antongilensis Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175635-1"
+LAST\tP7\t"9655199"
+CREATE
+LAST\tLen\t"Abrahamia betamponensis Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia betamponensis Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175636-1"
+LAST\tP7\t"7616715"
+CREATE
+LAST\tLen\t"Abrahamia capuronii Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia capuronii Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175638-1"
+LAST\tP7\t"7644467"
+CREATE
+LAST\tLen\t"Abrahamia darainensis Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia darainensis Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175639-1"
+LAST\tP7\t"9722887"
+CREATE
+LAST\tLen\t"Abrahamia delphinensis Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia delphinensis Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175645-1"
+LAST\tP7\t"8174237"
+CREATE
+LAST\tLen\t"Abrahamia ellipticarpa Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia ellipticarpa Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175648-1"
+LAST\tP7\t"7975909"
+CREATE
+LAST\tLen\t"Abrahamia elongata Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia elongata Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175649-1"
+LAST\tP7\t"8280399"
+CREATE
+LAST\tLen\t"Abrahamia itremoensis Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia itremoensis Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175680-1"
+LAST\tP7\t"9762120"
+CREATE
+LAST\tLen\t"Abrahamia lenticellata Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia lenticellata Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175684-1"
+LAST\tP7\t"7883187"
+CREATE
+LAST\tLen\t"Abrahamia littoralis Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia littoralis Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175686-1"
+LAST\tP7\t"8357890"
+CREATE
+LAST\tLen\t"Abrahamia lokobensis Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia lokobensis Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175688-1"
+LAST\tP7\t"7837220"
+CREATE
+LAST\tLen\t"Abrahamia longipetiolata Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia longipetiolata Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175690-1"
+LAST\tP7\t"8376161"
+CREATE
+LAST\tLen\t"Abrahamia minutifolia Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia minutifolia Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175693-1"
+LAST\tP7\t"7911833"
+CREATE
+LAST\tLen\t"Abrahamia patrickii Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia patrickii Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175697-1"
+LAST\tP7\t"9735010"
+CREATE
+LAST\tLen\t"Abrahamia phillipsonii Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia phillipsonii Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175700-1"
+LAST\tP7\t"7854699"
+CREATE
+LAST\tLen\t"Abrahamia revoluta Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia revoluta Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175702-1"
+LAST\tP7\t"7356557"
+CREATE
+LAST\tLen\t"Abrahamia sambiranensis Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia sambiranensis Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175704-1"
+LAST\tP7\t"8156335"
+CREATE
+LAST\tLen\t"Abrahamia suarezensis Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia suarezensis Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175707-1"
+LAST\tP7\t"7455358"
+CREATE
+LAST\tLen\t"Abrahamia turkii Randrian. & Lowry"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrahamia turkii Randrian. & Lowry"
+LAST\tP15\t"Randrian. & Lowry"
+LAST\tP32\t"77175710-1"
+LAST\tP7\t"7544179"
+CREATE
+LAST\tLen\t"Abrodictyum cylindratum Dubuisson"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrodictyum cylindratum Dubuisson"
+LAST\tP15\t"Dubuisson"
+LAST\tP32\t"77177697-1"
+LAST\tP7\t"9767640"
+CREATE
+LAST\tLen\t"Abrodictyum franceae Bauret & Dubuisson"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrodictyum franceae Bauret & Dubuisson"
+LAST\tP15\t"Bauret & Dubuisson"
+LAST\tP32\t"77159331-1"
+LAST\tP7\t"9647726"
+CREATE
+LAST\tLen\t"Abrodictyum inexpectatum Dubuisson & Rouhan"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrodictyum inexpectatum Dubuisson & Rouhan"
+LAST\tP15\t"Dubuisson & Rouhan"
+LAST\tP32\t"77306610-1"
+LAST\tP7\t"11755437"
+CREATE
+LAST\tLen\t"Abromeitiella lotteae Rauh"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abromeitiella lotteae Rauh"
+LAST\tP15\t"Rauh"
+LAST\tP32\t"302800-2"
+LAST\tP32\t"47-2"
+LAST\tP7\t"2699410"
+CREATE
+LAST\tLen\t"Abronia argillosa S.L.Welsh & Goodrich"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abronia argillosa S.L.Welsh & Goodrich"
+LAST\tP15\t"S.L.Welsh & Goodrich"
+LAST\tP32\t"58-2"
+LAST\tP7\t"5384878"
+CREATE
+LAST\tLen\t"Abronia bolackii N.D.Atwood, S.L.Welsh & K.D.Heil"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abronia bolackii N.D.Atwood, S.L.Welsh & K.D.Heil"
+LAST\tP15\t"N.D.Atwood, S.L.Welsh & K.D.Heil"
+LAST\tP32\t"20006836-1"
+LAST\tP32\t"323857-2"
+LAST\tP7\t"5553716"
+CREATE
+LAST\tLen\t"Abronia carnea Greene"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abronia carnea Greene"
+LAST\tP15\t"Greene"
+LAST\tP32\t"65-2"
+LAST\tP7\t"6435497"
+CREATE
+LAST\tLen\t"Abronia macrocarpa L.A.Galloway"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abronia macrocarpa L.A.Galloway"
+LAST\tP15\t"L.A.Galloway"
+LAST\tP32\t"84-2"
+LAST\tP7\t"5384869"
+CREATE
+LAST\tLen\t"Abronia mellifera var. pahoveorum Ertter & Nosratinia"
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abronia mellifera var. pahoveorum Ertter & Nosratinia"
+LAST\tP15\t"Ertter & Nosratinia"
+LAST\tP32\t"60473472-2"
+LAST\tP7\t"9403323"
+CREATE
+LAST\tLen\t"Abronia micrantha var. pedunculata M.E.Jones"
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abronia micrantha var. pedunculata M.E.Jones"
+LAST\tP15\t"M.E.Jones"
+LAST\tP32\t"87-2"
+LAST\tP7\t"5384865"
+CREATE
+LAST\tLen\t"Abronia nana var. harrisii S.L.Welsh"
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abronia nana var. harrisii S.L.Welsh"
+LAST\tP15\t"S.L.Welsh"
+LAST\tP32\t"271469-2"
+LAST\tP7\t"5553613"
+CREATE
+LAST\tLen\t"Abronia parviflora Kunth"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abronia parviflora Kunth"
+LAST\tP15\t"Kunth"
+LAST\tP32\t"271470-2"
+LAST\tP7\t"5553587"
+CREATE
+LAST\tLen\t"Abronia villosa f. rubescens Moldenke"
+LAST\tDen\t"a botanical taxonomic name of rank form"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abronia villosa f. rubescens Moldenke"
+LAST\tP15\t"Moldenke"
+LAST\tP32\t"125-2"
+LAST\tP7\t"5553486"
+CREATE
+LAST\tLen\t"Abrotanella crassipes Skottsb."
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrotanella crassipes Skottsb."
+LAST\tP15\t"Skottsb."
+LAST\tP32\t"300346-2"
+LAST\tP7\t"3138534"
+CREATE
+LAST\tLen\t"Abrotanella linearifolia A.Gray"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrotanella linearifolia A.Gray"
+LAST\tP15\t"A.Gray"
+LAST\tP32\t"305946-2"
+LAST\tP7\t"3138533"
+CREATE
+LAST\tLen\t"Abrotanella purpurea Swenson"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrotanella purpurea Swenson"
+LAST\tP15\t"Swenson"
+LAST\tP32\t"306135-2"
+LAST\tP7\t"3138547"
+CREATE
+LAST\tLen\t"Abrotanella submarginata A.Gray"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrotanella submarginata A.Gray"
+LAST\tP15\t"A.Gray"
+LAST\tP32\t"306820-2"
+LAST\tP7\t"3138532"
+CREATE
+LAST\tLen\t"Abrotanella trilobata Swenson"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abrotanella trilobata Swenson"
+LAST\tP15\t"Swenson"
+LAST\tP32\t"306563-2"
+LAST\tP7\t"3138548"
+CREATE
+LAST\tLen\t"Abuta chocoensis Krukoff & Barneby"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abuta chocoensis Krukoff & Barneby"
+LAST\tP15\t"Krukoff & Barneby"
+LAST\tP32\t"140-2"
+LAST\tP7\t"3830667"
+CREATE
+LAST\tLen\t"Abuta fluminum Krukoff & Barneby"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abuta fluminum Krukoff & Barneby"
+LAST\tP15\t"Krukoff & Barneby"
+LAST\tP32\t"145-2"
+LAST\tP7\t"3830550"
+CREATE
+LAST\tLen\t"Abuta mycetandra Krukoff & Barneby"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abuta mycetandra Krukoff & Barneby"
+LAST\tP15\t"Krukoff & Barneby"
+LAST\tP32\t"152-2"
+LAST\tP7\t"3830383"
+CREATE
+LAST\tLen\t"Abutilon alii Abedin"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon alii Abedin"
+LAST\tP15\t"Abedin"
+LAST\tP32\t"323437-2"
+LAST\tP7\t"3940470"
+CREATE
+LAST\tLen\t"Abutilon asiaticum var. subasperum Fosberg"
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon asiaticum var. subasperum Fosberg"
+LAST\tP15\t"Fosberg"
+LAST\tP32\t"323450-2"
+LAST\tP7\t"3940215"
+CREATE
+LAST\tLen\t"Abutilon attenuatum B.L.Rob. & Seaton"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon attenuatum B.L.Rob. & Seaton"
+LAST\tP15\t"B.L.Rob. & Seaton"
+LAST\tP32\t"178-2"
+LAST\tP7\t"3939187"
+CREATE
+LAST\tLen\t"Abutilon bakerianum Rose"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon bakerianum Rose"
+LAST\tP15\t"Rose"
+LAST\tP32\t"180-2"
+LAST\tP7\t"3940074"
+CREATE
+LAST\tLen\t"Abutilon barrancae M.E.Jones"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon barrancae M.E.Jones"
+LAST\tP15\t"M.E.Jones"
+LAST\tP32\t"315420-2"
+LAST\tP7\t"3940059"
+CREATE
+LAST\tLen\t"Abutilon bedfordianum var. discolor K.Schum."
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon bedfordianum var. discolor K.Schum."
+LAST\tP15\t"K.Schum."
+LAST\tP32\t"185-2"
+LAST\tP7\t"3940018"
+CREATE
+LAST\tLen\t"Abutilon berlandieri A.Gray ex S.Watson"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon berlandieri A.Gray ex S.Watson"
+LAST\tP15\t"A.Gray ex S.Watson"
+LAST\tP32\t"323463-2"
+LAST\tP7\t"3152635"
+CREATE
+LAST\tLen\t"Abutilon bracteosum Fryxell"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon bracteosum Fryxell"
+LAST\tP15\t"Fryxell"
+LAST\tP32\t"188-2"
+LAST\tP7\t"3939900"
+CREATE
+LAST\tLen\t"Abutilon burandtii Fryxell"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon burandtii Fryxell"
+LAST\tP15\t"Fryxell"
+LAST\tP32\t"271472-2"
+LAST\tP7\t"3939861"
+CREATE
+LAST\tLen\t"Abutilon carinatum Krapov."
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon carinatum Krapov."
+LAST\tP15\t"Krapov."
+LAST\tP32\t"194-2"
+LAST\tP7\t"3939800"
+CREATE
+LAST\tLen\t"Abutilon carneum A.St.-Hil."
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon carneum A.St.-Hil."
+LAST\tP15\t"A.St.-Hil."
+LAST\tP32\t"323465-2"
+LAST\tP7\t"3939784"
+CREATE
+LAST\tLen\t"Abutilon carterae Kearney"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon carterae Kearney"
+LAST\tP15\t"Kearney"
+LAST\tP32\t"317962-2"
+LAST\tP7\t"3939777"
+CREATE
+LAST\tLen\t"Abutilon chiriquinum A.Robyns"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon chiriquinum A.Robyns"
+LAST\tP15\t"A.Robyns"
+LAST\tP32\t"197-2"
+LAST\tP7\t"3939729"
+CREATE
+LAST\tLen\t"Abutilon cinereum Griseb."
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon cinereum Griseb."
+LAST\tP15\t"Griseb."
+LAST\tP32\t"271473-2"
+LAST\tP7\t"3939702"
+CREATE
+LAST\tLen\t"Abutilon costicalyx K.Schum. ex C.Takeuchi & G.L.Esteves"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon costicalyx K.Schum. ex C.Takeuchi & G.L.Esteves"
+LAST\tP15\t"K.Schum. ex C.Takeuchi & G.L.Esteves"
+LAST\tP32\t"77117206-1"
+LAST\tP7\t"7705709"
+CREATE
+LAST\tLen\t"Abutilon cunninghamii Benth."
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon cunninghamii Benth."
+LAST\tP15\t"Benth."
+LAST\tP32\t"326458-2"
+LAST\tP7\t"3939495"
+CREATE
+LAST\tLen\t"Abutilon demissum Fryxell"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon demissum Fryxell"
+LAST\tP15\t"Fryxell"
+LAST\tP32\t"208-2"
+LAST\tP7\t"3939408"
+CREATE
+LAST\tLen\t"Abutilon dianthum C.Presl"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon dianthum C.Presl"
+LAST\tP15\t"C.Presl"
+LAST\tP32\t"305123-2"
+LAST\tP7\t"3939357"
+CREATE
+LAST\tLen\t"Abutilon dinteri Ulbr."
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon dinteri Ulbr."
+LAST\tP15\t"Ulbr."
+LAST\tP32\t"326447-2"
+LAST\tP7\t"3939348"
+CREATE
+LAST\tLen\t"Abutilon divaricatum Turcz."
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon divaricatum Turcz."
+LAST\tP15\t"Turcz."
+LAST\tP32\t"211-2"
+LAST\tP7\t"7279460"
+CREATE
+LAST\tLen\t"Abutilon divaricatum var. hintonii Fryxell"
+LAST\tDen\t"a botanical taxonomic name of rank variety"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon divaricatum var. hintonii Fryxell"
+LAST\tP15\t"Fryxell"
+LAST\tP32\t"212-2"
+LAST\tP7\t"3939285"
+CREATE
+LAST\tLen\t"Abutilon durangense Rose & York"
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon durangense Rose & York"
+LAST\tP15\t"Rose & York"
+LAST\tP32\t"214-2"
+LAST\tP7\t"3939250"
+CREATE
+LAST\tLen\t"Abutilon ellipticum Schltdl."
+LAST\tDen\t"a botanical taxonomic name of rank species"
+LAST\tP1\tQ1
+LAST\tP5\tQ16
+LAST\tP16\t"Plantae"
+LAST\tP14\t"Abutilon ellipticum Schltdl."
+LAST\tP15\t"Schltdl."
+LAST\tP32\t"315418-2"
+LAST\tP7\t"3939187"
