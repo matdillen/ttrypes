@@ -34,3 +34,4 @@ mediaType
 verbatimScientificName
 acceptedNameUsage
 taxonKey
+family

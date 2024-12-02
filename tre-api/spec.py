@@ -16,13 +16,14 @@ login_instance = wbi_login.OAuth1(consumer_token=oauth_config.oauth_consumer_tok
 wbi = WikibaseIntegrator(login=login_instance)
 
 from wikibaseintegrator.datatypes import ExternalID, Item, String, Time
+from wikibaseintegrator.datatypes.extra import EDTF
 import pandas as pd
 
 specimens = pd.read_csv("specimens-wbi.tsv",sep="\t",dtype=str)
 
-init = 0
+init = 40000
 endit = len(specimens)
-#endit = 10
+#endit = 40000
 
 def process_and_append(column_value, prop_nr, data_list):
     if '|' in column_value:
@@ -31,29 +32,37 @@ def process_and_append(column_value, prop_nr, data_list):
     else:
         data_list.append(String(value=column_value.strip(), prop_nr=prop_nr))
         
-def truncate_string(input_string):
-    if len(input_string) > 250:
-        index = input_string.find("at the locality of")
-        if index != -1:
-            return input_string[:index]
-    return input_string
+def truncate_string(s, max_length=50, truncation_indicator='[...]'):
+    """Truncate a string to a maximum length, adding a truncation indicator if necessary."""
+    if len(s) > max_length:
+        return s[:max_length - len(truncation_indicator)] + truncation_indicator
+    else:
+        return s
 
 for i in range(init,endit):
     item = wbi.item.new()
     item.labels.set(language='en', value=specimens['occurrenceID'][i])
 
     # Set a English description
-    desc = "a plant specimen known as " + specimens['scientificName'][i]
+    desc = "a plant specimen known as " + truncate_string(specimens['scientificName'][i])
     if specimens['recordedBy'][i] == specimens['recordedBy'][i]:
-        desc = desc + " collected by " + specimens['recordedBy'][i]
+        desc += " collected by " + truncate_string(specimens['recordedBy'][i])
     if specimens['eventDate'][i] == specimens['eventDate'][i]:
-        desc = desc + " in " + specimens['eventDate'][i]
+        desc += " in " + truncate_string(specimens['eventDate'][i])
     if specimens['locality'][i] == specimens['locality'][i]:
-        desc = desc + " at the locality of " + specimens['locality'][i]
-    item.descriptions.set(language = 'en', value = truncate_string(desc))
+        desc += " at the locality of " + truncate_string(specimens['locality'][i])
+    item.descriptions.set(language = 'en', value = desc)
     
     statements = Item(value='Q4', prop_nr='P1')
     data = [statements]
+    if specimens['recordedBy'][i] == specimens['recordedBy'][i]:
+        data.append(String(value=truncate_string(specimens['recordedBy'][i],max_length = 400),prop_nr='P40'))
+    if specimens['locality'][i] == specimens['locality'][i]:
+        data.append(String(value=truncate_string(specimens['locality'][i],max_length = 400),prop_nr='P38'))
+    if specimens['eventDate'][i] == specimens['eventDate'][i]:
+        data.append(EDTF(value=specimens['eventDate'][i],prop_nr='P39'))
+    if specimens['countryCode'][i] == specimens['countryCode'][i]:
+        data.append(String(value=truncate_string(specimens['countryCode'][i],max_length = 400),prop_nr='P41'))
     data.append(Item(value=specimens['item'][i],prop_nr='P29'))
     process_and_append(specimens['gbifID'][i],'P34',data)
     data.append(String(value=specimens['scientificName'][i],prop_nr='P14'))

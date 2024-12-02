@@ -24,7 +24,8 @@ specimens_tsv = snames %>%
          uri,
          occurrenceID,
          scientificName,
-         `col:institutionCode`)
+         `col:institutionCode`,
+         countryCode)
 
 sspec = read_tsv("imported/specimensimported.tsv")
 
@@ -38,6 +39,8 @@ specimens_tsv2 = specimens_tsv %>%
             recordedBy = first(recordedBy),
             uri = first(uri),
             scientificName = first(scientificName),
-            `col:institutionCode` = first(`col:institutionCode`))
+            `col:institutionCode` = first(`col:institutionCode`),
+            countryCode = first(countryCode)) %>%
+  mutate(eventDate = gsub("T.*","",eventDate))
 
 write_tsv(specimens_tsv2,"tre-api/specimens-wbi.tsv",na="")
