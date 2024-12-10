@@ -3,6 +3,7 @@
 .RData
 .Ruserdata
 data/0*
+data/1*
 data/missing
 *.zip
 oauth_config.py
