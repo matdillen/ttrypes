@@ -21,7 +21,7 @@ import pandas as pd
 
 specimens = pd.read_csv("specimens-wbi.tsv",sep="\t",dtype=str)
 
-init = 40000
+init = 1
 endit = len(specimens)
 #endit = 40000
 
@@ -38,7 +38,7 @@ def truncate_string(s, max_length=50, truncation_indicator='[...]'):
         return s[:max_length - len(truncation_indicator)] + truncation_indicator
     else:
         return s
-
+quicklog = open("quicklog.txt","a+")
 for i in range(init,endit):
     item = wbi.item.new()
     item.labels.set(language='en', value=specimens['occurrenceID'][i])
@@ -72,5 +72,10 @@ for i in range(init,endit):
         data.append(String(value=specimens['col:institutionCode'][i],prop_nr='P26'))
     data.append(Item(value='Q52455',prop_nr='P8'))
     item.claims.add(data)
-    item.write()
+    try:
+        item.write()
+    except ModificationFailed as error:
+        print(error.info)
+        quicklog.write(error.info + "\n")
+        quicklog.write(specimens['occurrenceID'][i] + "\t" + specimens['gbifID'][i] + "\n")
     time.sleep(0.1)

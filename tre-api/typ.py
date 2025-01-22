@@ -20,10 +20,11 @@ import pandas as pd
 
 typifications = pd.read_csv("typifications-wbi.tsv",sep="\t",dtype=str)
 
-init = 0
+init = 60000
 endit = len(typifications)
-#endit = 10
+#endit = 60000
 
+quicklog = open("quicklog.txt","a+")
 def process_and_append(column_value, prop_nr, data_list):
     if '|' in column_value:
         for part in column_value.split('|'):
@@ -45,7 +46,7 @@ for i in range(init,endit):
     # Set a English description
     item.descriptions.set(language = 'en', value = "link between a specimen and the name it is a type for")
     
-    statements = Item(value='Q47296', prop_nr='P1')
+    statements = Item(value='Q47338', prop_nr='P1')
     data = [statements]
     data.append(Item(value=typifications['item.x'][i],prop_nr='P29'))
     data.append(Item(value=typifications['item.y'][i],prop_nr='P30'))
@@ -53,5 +54,11 @@ for i in range(init,endit):
     data.append(Item(value='Q52455',prop_nr='P8'))
     data.append(Item(value='Q62776',prop_nr='P8'))
     item.claims.add(data)
-    item.write()
+    try:
+        item.write()
+    except ModificationFailed as error:
+        print(error.info)
+        quicklog.write(error.info + "\n")
+        quicklog.write(typifications['typeStatusLabel'][i] + "\n")
     time.sleep(0.1)
+quicklog.close()

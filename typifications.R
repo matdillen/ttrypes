@@ -34,4 +34,10 @@ typification_tsv = sspec %>%
          item.x,#to rename
          item.y)
 
+styp = read_tsv("imported/typificationsimported.tsv")
+
+
+typification_tsv %<>%
+  filter(!typeStatusLabel%in%styp$typificationLabel)
+
 write_tsv(typification_tsv,"tre-api/typifications-wbi.tsv",na="")

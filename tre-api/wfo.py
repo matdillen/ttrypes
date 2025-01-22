@@ -20,7 +20,7 @@ import pandas as pd
 
 wfo = pd.read_csv("wfo-wbi.tsv",sep="\t",dtype=str)
 
-init = 21
+init = 33890
 endit = len(wfo)
 #endit = 21
 

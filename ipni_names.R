@@ -42,6 +42,10 @@ ipni %<>%
   mutate(fullname = paste(`col:scientificName`,
                           `col:authorship`))
 
+ipnin %<>%
+  mutate(fullname = paste(`col:scientificName`,
+                          `col:authorship`))
+
 # guess typifiedName for gbif data
 gtj %<>%
   mutate(possible_name = ifelse(is.na(typifiedName),
@@ -108,4 +112,4 @@ names_tsv %<>%
   filter(!fullname%in%snames$itemLabel)
 
 # names to import
-write_tsv(names_tsv,"tre-api/names-wbi.tsv",na="")
+#write_tsv(names_tsv,"tre-api/names-wbi.tsv",na="")

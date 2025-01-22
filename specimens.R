@@ -27,10 +27,12 @@ specimens_tsv = snames %>%
          `col:institutionCode`,
          countryCode)
 
-sspec = read_tsv("imported/specimensimported.tsv")
+sspec = read_tsv("imported/specimensimported.tsv") %>%
+  mutate(testid = paste0(gbifid,typeSpecimenLabel))
 
 specimens_tsv2 = specimens_tsv %>%
-  filter(!occurrenceID%in%sspec$typeSpecimenLabel) %>%
+  mutate(testid = paste0(gbifID,occurrenceID)) %>%
+  filter(!testid%in%sspec$testid) %>%
   group_by(occurrenceID) %>%
   summarise(item = first(item),
             gbifID = paste(unique(gbifID),collapse="|"),

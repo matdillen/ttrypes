@@ -18,11 +18,11 @@ wbi = WikibaseIntegrator(login=login_instance)
 from wikibaseintegrator.datatypes import ExternalID, Item, String, Time
 import pandas as pd
 
-typifications = pd.read_csv("../imported/typificationsimported.tsv",sep="\t",dtype=str)
+typifications = pd.read_csv("../imported/typificationswronglyimported.tsv",sep="\t",dtype=str)
 
-init = 21
+init = 0
 endit = len(typifications)
-#endit = 21
+#endit = 20000
 
 def process_and_append(column_value, prop_nr, data_list):
     if '|' in column_value:
