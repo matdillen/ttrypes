@@ -39,7 +39,10 @@ def truncate_string(input_string):
     return input_string
 
 for i in range(init,endit):
+    # retrieve the taxon name item
     item = wbi.item.get(entity_id = wfo['item'][i])
+    
+    # append the wfo id claim
     item.claims.add(String(value=wfo['wfo_id'][i],prop_nr='P33'))
     item.write()
     time.sleep(0.1)

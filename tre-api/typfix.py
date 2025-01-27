@@ -39,11 +39,15 @@ def truncate_string(input_string):
     return input_string
 
 for i in range(init,endit):
+    # retrieve the typification item to modify
     item = wbi.item.get(entity_id = typifications['typification'][i])
+    
+    # retrieve its "instance of" claims and remove them
     claims = item.claims.get('P1')
     for claim in claims:
         claim.remove()
     
+    # add the correct "instance of" claim
     item.claims.add(Item(value='Q47338',prop_nr='P1'))
     item.write()
     time.sleep(0.1)
